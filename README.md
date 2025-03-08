@@ -14,12 +14,5 @@ Este projeto demonstra conceitos fundamentais sobre ponteiros e referências em 
 ✅ Somar valores ao endereço apontado por um ponteiro.
 ✅ Loop interativo para testar o comportamento dos ponteiros.
 
-
 <h3>DEMONSTRAÇÃO:</h3>
-<img src="https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4" width="600" />
-
-## Imagem Representativa:
-
-Abaixo, uma ilustração conceitual sobre ponteiros em C++.
-
-![Imagem de ponteiros](https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4)
+<img src="https://github.com/user-attachments/assets/c54b1652-6fa9-4b39-8db6-9a9eebde857c" width="600" />
