@@ -15,4 +15,11 @@ Este projeto demonstra conceitos fundamentais sobre ponteiros e referências em 
 ✅ Loop interativo para testar o comportamento dos ponteiros.
 
 
-![image](https://github.com/user-attachments/assets/9d239df4-8065-4bf6-a454-06e3741340d0)
+<h3>DEMONSTRAÇÃO:</h3>
+<img src="https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4" width="600" />
+
+## Imagem Representativa:
+
+Abaixo, uma ilustração conceitual sobre ponteiros em C++.
+
+![Imagem de ponteiros](https://github.com/user-attachments/assets/b56d33d3-471d-49ec-824e-8c3a1be7a5c4)
