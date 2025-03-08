@@ -15,4 +15,4 @@ Este projeto demonstra conceitos fundamentais sobre ponteiros e referências em 
 ✅ Loop interativo para testar o comportamento dos ponteiros.
 
 <h3>DEMONSTRAÇÃO:</h3>
-<img src="https://github.com/user-attachments/assets/c54b1652-6fa9-4b39-8db6-9a9eebde857c" width="600" />
+<img src="https://github.com/user-attachments/assets/c54b1652-6fa9-4b39-8db6-9a9eebde857c" width="300" />
